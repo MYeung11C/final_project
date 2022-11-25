@@ -9,5 +9,6 @@ The source of the data was pulled off ARCGIS data on ailments across the US, spe
 # Question
 The questions I hope to answer with this data is:
 Is there a correlation between stroke mortality rate and income?
+
 Is there a correlation overall, to ailment mortality rates and income?
 
