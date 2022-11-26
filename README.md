@@ -14,6 +14,8 @@ Is there a correlation overall, to ailment mortality rates and income?
 
 On Tableau, we can see the trendline through the many data points that are plotted to income vs ailments such as COPD, Coronary disease, Diabetes, Heart Failure, Kidney Disease, Stroke Mortality rates all per 100k population. The Trendline Indicates that there is a downward trend in the data, meaning the higher the income, the lower the ailment mortality rate appears to be.
 
+Link: https://public.tableau.com/app/profile/manuel5396/viz/FinalAilmentMortalityRateAlltrends/Sheet1
+
 
 ![image](https://user-images.githubusercontent.com/106784501/204065890-202bb345-4e6e-48a6-b74f-142c6c33d208.png)
 
