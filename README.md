@@ -21,6 +21,7 @@ Link: https://public.tableau.com/app/profile/manuel5396/viz/FinalAilmentMortalit
 
 Also on Tableau, we can see the separate trendlines showing a slight decrease towards the higher rates of income, most notable is the stroke mortality rate per 100k, where that specific trendline does a sharp decline towards the higher income levels. This hints at families with higher income are likely to survive strokes when compared to lower income families. 
 
+Link: https://public.tableau.com/app/profile/manuel5396/viz/FinalAilmentMortalityRateAlltrends/Sheet1?publish=yes
 
 ![Alltrendailment](https://user-images.githubusercontent.com/106784501/204065909-bc756ee0-7a18-4fbb-a24e-2fb9c2ec400a.jpg)
 
