@@ -22,11 +22,11 @@ Also on Tableau, we can see the separate trendlines showing a slight decrease to
 
 ![Alltrendailment](https://user-images.githubusercontent.com/106784501/204065909-bc756ee0-7a18-4fbb-a24e-2fb9c2ec400a.jpg)
 
-In the pivot table below, the data was extracted onto a separate sheet and compiled onto a pivot table, where the income and stroke mortality rate were with the respective states. The color codes indicate the higher the mortality rate being red, whereas the lower the mortality rate it went to yellow and green at the lowest points. The data was sorted by the average stroke mortality rates from high to low, where you can see on the table that as the color turned to green, the incomes were usually higher. This backs up the chart of stroke rate vs income on tableau. 
+In excel the data was extracted onto a separate sheet and compiled onto a pivot table, where the income and stroke mortality rate were with the respective states. The color codes indicate the higher the mortality rate being red, whereas the lower the mortality rate it went to yellow and green at the lowest points. The data was sorted by the average stroke mortality rates from high to low, where you can see on the table that as the color turned to green, the incomes were usually higher. This backs up the chart of stroke rate vs income on tableau. 
 
 ![image](https://user-images.githubusercontent.com/106784501/204069846-6ae0d23c-f3bb-4397-99a0-fb0b58acc6b3.png)
 
-The next set of data includes COPD, Coronary disease, Diabetes, Kidney disease on top of Stroke mortality rates per 100k, the same as the tableau chart. 
+The next set of data is presented in a pivot table on excel and includes COPD, Coronary disease, Diabetes, Kidney disease on top of Stroke mortality rates per 100k, the same as the tableau chart. 
 Mortality rate per 100k seems to have better results, although the trend still appears to be that the lower the income, the worse off the population is in regards to mortality rates in ailments overall. 
 
 ![image](https://user-images.githubusercontent.com/106784501/204071039-af0d6d35-7f09-4a2c-92af-6ea9a18594f5.png)
