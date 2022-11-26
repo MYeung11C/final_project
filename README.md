@@ -21,3 +21,6 @@ Is there a correlation overall, to ailment mortality rates and income?
 
 
 ![image](https://user-images.githubusercontent.com/106784501/204069846-6ae0d23c-f3bb-4397-99a0-fb0b58acc6b3.png)
+
+
+![image](https://user-images.githubusercontent.com/106784501/204070393-881b6571-94d0-430c-891f-23fd9345edee.png)
