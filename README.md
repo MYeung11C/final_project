@@ -34,3 +34,8 @@ Mortality rate per 100k seems to have better results, although the trend still a
 
 ![image](https://user-images.githubusercontent.com/106784501/204071039-af0d6d35-7f09-4a2c-92af-6ea9a18594f5.png)
 
+When the scatter chart of Stroke Mortality rate per 100k is made up on Jupyter notebook, it is as follows:
+
+![image](https://user-images.githubusercontent.com/106784501/204430025-393af3ef-1237-4bb5-937b-60b498b8ac52.png)
+
+The negative coefficient indicates that there is a negative trend in the relationship between the x ( median household income) and the y ( stroke mortality rate per 100k)
