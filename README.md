@@ -1,4 +1,4 @@
-# final_project CURRENTLY UP TO DELIVERABLE 1, WORK IN PROGRESS
+# final_project 
 # Topic
 Stroke Mortality Rate per 100k in US
 This topic was picked based off a personal interest in the subject due to family members in the past having experienced strokes. I added in the median household income via US Census data to see if there was a correlation between income and mortality rate. 
