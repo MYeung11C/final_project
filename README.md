@@ -39,3 +39,9 @@ When the scatter chart of Stroke Mortality rate per 100k is made up on Jupyter n
 ![image](https://user-images.githubusercontent.com/106784501/204430025-393af3ef-1237-4bb5-937b-60b498b8ac52.png)
 
 The negative coefficient indicates that there is a negative trend in the relationship between the x ( median household income) and the y ( stroke mortality rate per 100k)
+
+
+
+google slides link:
+
+https://docs.google.com/presentation/d/1byXJXA_riPvItFXwXaUBMnHUV1YCUZ-bfJhVMZmaMlQ/edit?usp=sharing
